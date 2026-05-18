@@ -1,0 +1,6 @@
+{
+  "name": "AcadLink",
+  "description": "Student-Faculty Course Management System for browsing courses, faculty, and submitting feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
